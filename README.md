@@ -1,4 +1,4 @@
 SolveResearch
 =============
 
-Research tools free for academic use.
+Research tools free for academic use
